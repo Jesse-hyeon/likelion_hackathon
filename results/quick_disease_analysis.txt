@@ -1,8 +1,0 @@
-Disease Distribution and Expected Performance
-============================================================
-
-Streptococcosis     :  32 samples, ~90.6% detection
-Vibriosis           :  20 samples, ~75.0% detection
-Edwardsiellosis     :  16 samples, ~75.0% detection
-Scuticociliatosis   :  16 samples, ~87.5% detection
-Lymphocystis        :  16 samples, ~81.3% detection

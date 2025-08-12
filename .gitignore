@@ -71,3 +71,24 @@ debug/
 *.pid
 *.seed
 *.pid.lock
+
+# AI Model Development (local only)
+CLAUDE.md
+advanced_fish_detection.py
+simple_fish_detector.py
+test_with_pseudo_normal.py
+input/
+results/
+*.pkl
+*.h5
+*.pth
+*.onnx
+task.md
+
+# Data files
+*.csv
+*.xlsx
+*.json
+!package.json
+!jsconfig.json
+!tsconfig.json
