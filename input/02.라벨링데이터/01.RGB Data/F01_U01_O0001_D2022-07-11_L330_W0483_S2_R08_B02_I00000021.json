@@ -1,0 +1,82 @@
+{
+	"categories": [
+		{
+			"id": 0,
+			"name": "넙치",
+			"superclass": "척삭동물문",
+			"class": "조기어강",
+			"order": "가자미목",
+			"family": "넙치과",
+			"supercategory": "어류"
+		}
+	],
+	"images": [
+		{
+			"id": 5515,
+			"file_name": "F01_U01_O0001_D2022-07-11_L330_W0483_S2_R08_B02_I00000021",
+			"width": 6000,
+			"height": 4000,
+			"date_captured": "2022-07-11",
+			"type": "RGB",
+			"angle": 8
+		}
+	],
+	"growth_levels": [
+		{
+			"level_id": 1,
+			"level_name": "치어"
+		},
+		{
+			"level_id": 2,
+			"level_name": "준성어"
+		},
+		{
+			"level_id": 3,
+			"level_name": "성어"
+		}
+	],
+	"annotations": [
+		{
+			"id": 22370,
+			"fishno": 1,
+			"image_id": 5515,
+			"category_id": 0,
+			"tanknum": 1,
+			"bbox": [
+				1545.0,
+				2793.75,
+				2288.75,
+				3608.75
+			],
+			"symptom_type": 3,
+			"symptom": 3,
+			"disease": [
+				21
+			],
+			"body_weight": 483,
+			"body_length": 330,
+			"growth_level": 2
+		},
+		{
+			"id": 22371,
+			"fishno": 1,
+			"image_id": 5515,
+			"category_id": 0,
+			"tanknum": 1,
+			"bbox": [
+				4733.75,
+				1901.25,
+				4857.5,
+				2006.25
+			],
+			"symptom_type": 3,
+			"symptom": 10,
+			"disease": [
+				21
+			],
+			"body_weight": 483,
+			"body_length": 330,
+			"growth_level": 2
+		}
+	]
+}

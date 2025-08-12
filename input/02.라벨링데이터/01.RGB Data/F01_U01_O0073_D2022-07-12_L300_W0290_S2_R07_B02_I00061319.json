@@ -1,0 +1,178 @@
+{
+	"categories": [
+		{
+			"id": 0,
+			"name": "넙치",
+			"superclass": "척삭동물문",
+			"class": "조기어강",
+			"order": "가자미목",
+			"family": "넙치과",
+			"supercategory": "어류"
+		}
+	],
+	"images": [
+		{
+			"id": 5501,
+			"file_name": "F01_U01_O0073_D2022-07-12_L300_W0290_S2_R07_B02_I00061319",
+			"width": 6000,
+			"height": 4000,
+			"date_captured": "2022-07-12",
+			"type": "RGB",
+			"angle": 7
+		}
+	],
+	"growth_levels": [
+		{
+			"level_id": 1,
+			"level_name": "치어"
+		},
+		{
+			"level_id": 2,
+			"level_name": "준성어"
+		},
+		{
+			"level_id": 3,
+			"level_name": "성어"
+		}
+	],
+	"annotations": [
+		{
+			"id": 22341,
+			"fishno": 73,
+			"image_id": 5501,
+			"category_id": 0,
+			"tanknum": 1,
+			"bbox": [
+				3681.25,
+				2113.75,
+				3762.5,
+				2268.75
+			],
+			"symptom_type": 3,
+			"symptom": 3,
+			"disease": [
+				6,
+				13,
+				19
+			],
+			"body_weight": 290,
+			"body_length": 300,
+			"growth_level": 2
+		},
+		{
+			"id": 22342,
+			"fishno": 73,
+			"image_id": 5501,
+			"category_id": 0,
+			"tanknum": 1,
+			"bbox": [
+				2446.25,
+				2148.75,
+				2535.0,
+				2296.25
+			],
+			"symptom_type": 3,
+			"symptom": 3,
+			"disease": [
+				6,
+				13,
+				19
+			],
+			"body_weight": 290,
+			"body_length": 300,
+			"growth_level": 2
+		},
+		{
+			"id": 22343,
+			"fishno": 73,
+			"image_id": 5501,
+			"category_id": 0,
+			"tanknum": 1,
+			"bbox": [
+				3050.0,
+				3102.5,
+				3713.75,
+				3513.75
+			],
+			"symptom_type": 3,
+			"symptom": 3,
+			"disease": [
+				6,
+				13,
+				19
+			],
+			"body_weight": 290,
+			"body_length": 300,
+			"growth_level": 2
+		},
+		{
+			"id": 22344,
+			"fishno": 73,
+			"image_id": 5501,
+			"category_id": 0,
+			"tanknum": 1,
+			"bbox": [
+				3641.25,
+				2320.0,
+				3737.5,
+				2457.5
+			],
+			"symptom_type": 3,
+			"symptom": 3,
+			"disease": [
+				6,
+				13,
+				19
+			],
+			"body_weight": 290,
+			"body_length": 300,
+			"growth_level": 2
+		},
+		{
+			"id": 22345,
+			"fishno": 73,
+			"image_id": 5501,
+			"category_id": 0,
+			"tanknum": 1,
+			"bbox": [
+				3461.25,
+				2481.25,
+				3656.25,
+				2627.5
+			],
+			"symptom_type": 3,
+			"symptom": 3,
+			"disease": [
+				6,
+				13,
+				19
+			],
+			"body_weight": 290,
+			"body_length": 300,
+			"growth_level": 2
+		},
+		{
+			"id": 22346,
+			"fishno": 73,
+			"image_id": 5501,
+			"category_id": 0,
+			"tanknum": 1,
+			"bbox": [
+				2601.25,
+				2436.25,
+				2761.25,
+				2623.75
+			],
+			"symptom_type": 3,
+			"symptom": 3,
+			"disease": [
+				6,
+				13,
+				19
+			],
+			"body_weight": 290,
+			"body_length": 300,
+			"growth_level": 2
+		}
+	]
+}

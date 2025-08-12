@@ -8,7 +8,20 @@
       "Bash(npm start)",
       "Bash(npm run dev:*)",
       "Bash(git init:*)",
-      "Bash(git push:*)"
+      "Bash(git push:*)",
+      "Bash(python:*)",
+      "Bash(pip install:*)",
+      "Bash(for file in \"C:\\PythonProject_likelion\\k-fish\\frontend\\app\\dashboard\\buyer\\page.tsx\" \"C:\\PythonProject_likelion\\k-fish\\frontend\\app\\layout.tsx\" \"C:\\PythonProject_likelion\\k-fish\\frontend\\app\\page.tsx\")",
+      "Bash(do if [ -f \"$file\" ])",
+      "Bash(then echo \"Converting: $file\")",
+      "Bash(cp:*)",
+      "Bash(sed:*)",
+      "Bash(fi)",
+      "Bash(done)",
+      "Bash(mv:*)",
+      "Bash(true)",
+      "Bash(curl:*)",
+      "Bash(git add:*)"
     ],
     "deny": []
   }

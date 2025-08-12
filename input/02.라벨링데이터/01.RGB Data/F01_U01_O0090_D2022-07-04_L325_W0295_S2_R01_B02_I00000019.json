@@ -1,0 +1,124 @@
+{
+	"categories": [
+		{
+			"id": 0,
+			"name": "넙치",
+			"superclass": "척삭동물문",
+			"class": "조기어강",
+			"order": "가자미목",
+			"family": "넙치과",
+			"supercategory": "어류"
+		}
+	],
+	"images": [
+		{
+			"id": 31108,
+			"file_name": "F01_U01_O0090_D2022-07-04_L325_W0295_S2_R01_B02_I00000019",
+			"width": 5152,
+			"height": 3864,
+			"date_captured": "2022-07-04",
+			"type": "RGB",
+			"angle": 1
+		}
+	],
+	"growth_levels": [
+		{
+			"level_id": 1,
+			"level_name": "치어"
+		},
+		{
+			"level_id": 2,
+			"level_name": "준성어"
+		},
+		{
+			"level_id": 3,
+			"level_name": "성어"
+		}
+	],
+	"annotations": [
+		{
+			"id": 90724,
+			"fishno": 90,
+			"image_id": 31108,
+			"category_id": 0,
+			"tanknum": 1,
+			"bbox": [
+				2959.18,
+				1277.2666666666667,
+				3496.9199999999996,
+				1623.9533333333331
+			],
+			"symptom_type": 3,
+			"symptom": 3,
+			"disease": [
+				19
+			],
+			"body_weight": 295,
+			"body_length": 325,
+			"growth_level": 2
+		},
+		{
+			"id": 90725,
+			"fishno": 90,
+			"image_id": 31108,
+			"category_id": 0,
+			"tanknum": 1,
+			"bbox": [
+				3772.7666666666664,
+				1403.9199999999998,
+				4233.2266666666665,
+				1886.9199999999998
+			],
+			"symptom_type": 3,
+			"symptom": 3,
+			"disease": [
+				19
+			],
+			"body_weight": 295,
+			"body_length": 325,
+			"growth_level": 2
+		},
+		{
+			"id": 90726,
+			"fishno": 90,
+			"image_id": 31108,
+			"category_id": 0,
+			"tanknum": 1,
+			"bbox": [
+				2499.793333333333,
+				2052.213333333333,
+				3332.7,
+				2406.413333333333
+			],
+			"symptom_type": 3,
+			"symptom": 3,
+			"disease": [
+				19
+			],
+			"body_weight": 295,
+			"body_length": 325,
+			"growth_level": 2
+		},
+		{
+			"id": 90727,
+			"fishno": 90,
+			"image_id": 31108,
+			"category_id": 0,
+			"tanknum": 1,
+			"bbox": [
+				1107.6799999999998,
+				1195.6933333333332,
+				4234.299999999999,
+				2405.3399999999997
+			],
+			"symptom_type": 7,
+			"symptom": 29,
+			"disease": [
+				19
+			],
+			"body_weight": 295,
+			"body_length": 325,
+			"growth_level": 2
+		}
+	]
+}
